@@ -1,0 +1,3 @@
+Na aula 3 aprendemos como faz para configurar a visibilidade ou seja tornar os atributos public, privado e protegido onde,
+o publico todas as classes conseguem acessar os atributos e metodos de uma classe, privado somente a classe definida pode uasor e 
+protegido somente a mãe e os filhos podem acessar.

@@ -1,0 +1,2 @@
+Na Programação Orientada Objetos existe o metodo getters que pega alguma informação.
+Na programação Orientada a Objeto existe o metodop Setters que serve para modificar coisas que estão dentro do objeto.
